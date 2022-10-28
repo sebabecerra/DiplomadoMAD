@@ -1,2 +1,2 @@
 # DiplomadoMAD
-Repositorio para el curso de MD
+Repositorio para los cursos del diplomado
